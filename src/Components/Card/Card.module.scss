@@ -13,6 +13,7 @@
 
     .favorite {
         position: absolute;
+        cursor: pointer;
     }
 
     &:not(:last-child) {
